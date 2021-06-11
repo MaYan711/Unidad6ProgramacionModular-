@@ -16,6 +16,7 @@ public class Ejercicio11{
 
 		insertarEstudiantes(nombres,resultado,nota,6);
 
+
 		imprimirEstudiantes(nombres,resultado,nota,6);
 
 
